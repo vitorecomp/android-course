@@ -1,0 +1,42 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#f0c610</item>
+        <item name="colorPrimaryDark">#9cce5f</item>
+        <item name="colorAccent">#e74a43</item>
+        <item name="toolbarNavigationButtonStyle">@style/CustomActionBarTheme</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar" parent="AppTheme">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppThemeNight" parent="ThemeOverlay.AppCompat.Dark">
+        <item name="colorPrimary">#f0c610</item>
+        <item name="colorOnPrimary">#f0c610</item>
+        <item name="colorPrimaryDark">#9cce5f</item>
+        <item name="colorAccent">#e74a43</item>
+    </style>
+    <style name="AppThemeNight.NoActionBar" parent="AppThemeNight">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="toolbarNavigationButtonStyle">@style/CustomActionBarTheme</item>
+    </style>
+
+    <style name="TextAppearance.Design.CollapsingToolbar.Expanded.Custom"
+        parent="TextAppearance.Design.CollapsingToolbar.Expanded">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+    <style name="TextAppearance.AppCompat.Widget.ActionBar.Title.Custom"
+        parent="TextAppearance.AppCompat.Widget.ActionBar.Title">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+    <style name="CustomActionBarTheme"
+        parent="@style/Widget.AppCompat.Toolbar.Button.Navigation">
+        <item name="android:tint">@android:color/white</item>
+    </style>
+
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "542764293938",
+    "firebase_url": "https://homeopps-7a6a3.firebaseio.com",
+    "project_id": "homeopps-7a6a3",
+    "storage_bucket": "homeopps-7a6a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542764293938:android:97d177c6fa64a67293812b",
+        "android_client_info": {
+          "package_name": "com.androiddesenv.opiniaodetudo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542764293938-6ot8itui4uj0t5n1i2mppp726a7d7pl8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYfDYXK1SeRwBi7YS-6suWUHy4Kutvirk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542764293938-6ot8itui4uj0t5n1i2mppp726a7d7pl8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

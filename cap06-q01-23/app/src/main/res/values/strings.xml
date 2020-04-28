@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">OpiniaoDeTudo</string>
+
+
+    <string name="form_title">Nova Opinião</string>
+    <string name="form_review_name">Nome</string>
+    <string name="form_review_opinion">Opinião</string>
+
+    <string name="form_review_name_hint">Descreva aqui seu nome</string>
+    <string name="form_review_opinion_hint">Descreva aqui sua Opinião</string>
+
+    <string name="form_review_button">Gravar</string>
+    <string name="menu_list_reviews_label">Lista Opinioes</string>
+</resources>

@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">OpiniaoDeTudo</string>
+
+
+    <string name="form_title">Nova Opinião</string>
+    <string name="form_review_name">Nome</string>
+    <string name="form_review_opinion">Opinião</string>
+
+    <string name="form_review_name_hint">Descreva aqui seu nome</string>
+    <string name="form_review_opinion_hint">Descreva aqui sua Opinião</string>
+
+    <string name="form_review_button">Gravar</string>
+    <string name="menu_list_reviews_label">Lista Opinioes</string>
+    <string name="item_list_edit">Editar</string>
+    <string name="item_list_delete">Deletar</string>
+
+    <string name="new_item">Novo Item</string>
+    <string name="list_item">Listar Itens</string>
+
+    <string name="delete_confirmation">Deseja realmente deletar esta opinião?</string>
+    <string name="string_cancel">Cancelar</string>
+    <string name="string_ok">Ok</string>
+    <string name="form_review_foto">Foto</string>
+    <string name="item_list_map">Mapa</string>
+    <string name="summary_night_mode">Modo noturno</string>
+    <string name="night_mode">Modo noturno</string>
+    <string name="setting_item">Configurações</string>
+    <string name="form_review">Opinião</string>
+</resources>
